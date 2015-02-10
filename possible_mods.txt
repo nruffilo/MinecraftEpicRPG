@@ -15,6 +15,9 @@ RPG Advanced Mod (http://www.curse.com/mc-mods/minecraft/220611-rpg-advanced-mod
 Lost Books (http://www.curse.com/mc-mods/minecraft/lost-books) will make our quest items much easier?
 radio (http://www.curse.com/mc-mods/minecraft/dragons-radio-mod) possibly for pre-recorded audio
 
+FTP Infinitiy - use their map writer instead of what we have
+Possibly Optifine instead of fastcraft (test)
+
 
 
 
