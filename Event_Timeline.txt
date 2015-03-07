@@ -1,0 +1,52 @@
+This is a rought timeline of in-game events.  This also serves as a storyboard.  Alternate timelines will have different 
+text files to represent the changed line.
+
+Event 1 - The Crash
+Player starts on a plane;  Audio clip plays alerting the user "One of the engines has blown, we're going down.  Quick, get out."
+Dizziness is given to the player and the player has to make their way to the back of the plane, open the hatch, and jump out,
+landing in water.  
+
+Event 2 - The shore
+Player is presented with a beach and the words "Help Me..." written with stones and a line of blood.  The blood leads to a house
+with a village in the distance.  The house contains a note which speaks of horrible experiments that are happening to the 
+scientists and that someone needs to stop Dr. Matasan.  The note unlocks the quest line "Discover what experiments Dr. Matasan
+is conducting on the scientists."
+
+Event 3 - The Village
+The village will contain a few starting items and armor pieces (iron armor?  Iron swrod, etc) and will contain information 
+regarding the Phillip J.F. side-quest.  It will also fill the user in a little bit about the back-story of what is on the island.
+Will talk about shipments in/out of the port, and if they go to Dr. Zhang or Dr. Matasan.  
+
+Event 4 - The Research Facility
+This facility will contain plants, food, and a few monsters.  It will reveal that Dr. Matasan was working to create a super-
+food, but abandoned this lab once a better facility was erected further north.  Will contain notes hinting at the location of
+the S. Miller Sidequest.  Possibly the Leira's Revenge side quest as well.
+
+Event 5 - The Ziggurat 
+While heading north, there will be a large Ziggurat.  Inspection will have the player encountering a fleeing Dr. Zhang.  
+She will be screaming "Run, Run!  Get out of here!"  Once out of the Ziggurat, she will tell them that she has summoned a
+demon, not on purpose, and she was unable to stop it.  It now wants to summon a greater demon.  She has a suit that could
+be used to stop it, but needs a few extra ingredients for it to work fully.  She asks you to meet her in her lab the next day
+as she needs to do some calculations, etc.  Gives you instructions with the co-ordinates of her lab.
+
+(continued on Dr_Zhang_Questline.txt)
+
+Event 6 - Dr. Matasan's Facilities
+By continuing to travel north, the player will encounter Dr. Matasan's new lab, which is filled with crazy (lycanite) creatures
+all in cages, as well as odd potion brewing.  Some poison, some health, and a few zombie spawners.  As the player gets
+further into the facility security gets tighter, and signs/navigation becomes more difficulty, until they encounter Dr. 
+Matasan, who inquires why they are there.  Ultimately he lets the players know that he's working towards eternal life - but it
+is very clear to the players that he is not-all-there.  His skin should be that of a vampire or so...
+
+Matasan gives the players two options - they can help him find ingredients he needs - which will require they travel to
+the twilight forest - or they can simply leave.  If they try to release the scientists, he will most likely kill them (he will
+require some late-game stuff to kill).  
+
+(continued on Dr_Matasan_Questline.txt)
+
+Event 7 - Create a communication device
+Either by scratch, or by finding parts throughout the world, the player will be able to craft a communications device that is 
+capable of "calling home."  Exactly 4 in-game hours after the devices is crafted and powered, a message will appear and 
+the player will be told they have been rescued.  A different ending will display based on the quests they completed and
+the path that they chose.  see the quest lines for possible endings.
+
