@@ -1,0 +1,10 @@
+Dr. Zhang's Questline
+
+This document outlines the events surrounding Dr. Zhang's quests.  The base event is the players meeting Dr. Zhang and being
+given the ultimatium to help find the ingredients to perfect his potion for immortality, or leave him to do his research
+in peace.  
+
+EVENT Zhang Ignore - Spawn rate of zombies increases every day for 16? days.  After 24 in-game days, the world becomes much 
+darker (or some sort of status is applied to the player) and a notice of a feeling that great evil is lose.  At this point
+Zhang comes out every night and attempts to find and kill the player.
+
