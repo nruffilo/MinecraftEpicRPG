@@ -8,3 +8,5 @@ Map Co-ordinates for all the special places:
 -146,64,-1118 - Liera's Lair
 1,80, -374 - Starting Village
 79,184,-370 - Spawn - Plane
+1,67,-610 - Fry's stash of dumped items
+361,69,-1026 - S. Miller's Hidey Hole
