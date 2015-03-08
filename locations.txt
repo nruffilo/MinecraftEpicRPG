@@ -1,0 +1,10 @@
+Map Co-ordinates for all the special places:
+
+247, 71, -1992 - Ziggurat
+36, 63, -1679 - Dr. Matasan's House
+91,83, -1362 - Dr. Matasan's Early Lab
+140, 86, -860 - Native Village
+-70, 78, -594 - docks
+-146,64,-1118 - Liera's Lair
+1,80, -374 - Starting Village
+79,184,-370 - Spawn - Plane
